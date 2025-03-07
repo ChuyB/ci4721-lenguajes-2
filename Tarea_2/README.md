@@ -8,7 +8,7 @@ Está desarrollado en el lenguaje Go.
 
 Para correr el proyecto es necesario:
 
-- Tener instalado Go: (https://go.dev/doc/install)[https://go.dev/doc/install]
+- Tener instalado Go: [https://go.dev/doc/install](https://go.dev/doc/install)
 
 Para ejecutar se debe correr el siguiente comando:
 
